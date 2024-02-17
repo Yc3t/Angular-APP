@@ -1,2 +1,3 @@
-# APP with angular 
+# Snackflix
+
 first app with angular
